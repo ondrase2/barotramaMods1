@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="Humpbackfixed1" modversion="1.0.17" corepackage="False" gameversion="1.4.6.0">
+  <Submarine file="%ModDir%/Humpbackfixed1.sub" />
+  <Submarine file="%ModDir%/Humpbackfixed2actualdoors.sub" />
+  <Submarine file="%ModDir%/Humpbackfixed3mantoggledoor.sub" />
+  <Submarine file="%ModDir%/Humpbackfixed4mantoggledoor.sub" />
+  <Submarine file="%ModDir%/Humpbackfixed5hatches.sub" />
+  <Submarine file="%ModDir%/Humpbackfixed6locks.sub" />
+  <Submarine file="%ModDir%/Humpbackfixed7locks.sub" />
+</contentpackage>
