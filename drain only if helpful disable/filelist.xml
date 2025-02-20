@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="drain only if helpful disable" modversion="1.0.0" corepackage="False" gameversion="1.4.6.0">
+  <ItemAssembly file="%ModDir%/drain only if helpful disable.xml" />
+</contentpackage>
